@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://github.com/lumine404">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=476a24&fontSize=54&height=90&width=698&text=Hello!%20I'm%20Lumine!!" alt="Hello! I&#39;m Lumine!!" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=476a24&fontSize=54&height=90&width=794&text=Hi%20there!%20I'm%20Lumine!!" alt="Hi there! I&#39;m Lumine!!" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff9bce&center=true&vCenter=true&width=400&height=44&lines=tech%2C%20code%2C%20tea;small%20progress%20every%20day" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff9bce&center=true&vCenter=true&width=400&height=44&lines=design%2C%20code%2C%20tea;small%20progress%20every%20day" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
@@ -36,7 +36,7 @@ here to find the real purpose of life through tech
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=lumine404&bg_color=00000000&color=476a24&line=476a24&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=lumine404&bg_color=00000000&color=476a24&line=476a24&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ---
